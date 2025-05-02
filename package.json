@@ -1,0 +1,26 @@
+{
+    "name": "event-horizon",
+    "displayName": "Event Horizon",
+    "description": "A dark theme for Visual Studio Code inspired by the event horizon of a black hole. Beyond the event horizon, only kings reign. Step into the void. Arise as your final form.",
+    "version": "0.0.1",
+    "publisher": "voidcore",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/dahn-11/event-horizon.git"
+    },
+    "engines": {
+      "vscode": "^1.50.0"
+    },
+    "categories": [
+      "Themes"
+    ],
+    "contributes": {
+      "themes": [
+        {
+          "label": "Event Horizon",
+          "uiTheme": "vs-dark",
+          "path": "./themes/event-horizon.json"
+        }
+      ]
+    }
+}
