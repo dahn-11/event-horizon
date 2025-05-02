@@ -39,7 +39,9 @@
 		"debugToolBar.background": "#000000",  
 		"peekViewEditor.background": "#000000",  
 		"peekViewResult.background": "#000000",  
-		"quickInput.background": "#000000"  
+		"quickInput.background": "#000000",  
+    "statusBarItem.remoteBackground": "#ff0000",  
+		"statusBarItem.remoteHoverBackground": "#ff6666"
 	},
     "tokenColors": [
         {
